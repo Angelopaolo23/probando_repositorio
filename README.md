@@ -12,3 +12,11 @@ un gusto en saludarles en esta linda noche de martes 13 de septiembre la cual re
 
 
 buenos dias gente aqui estamos otra vez en esta linda tarde del termino de invierno
+
+
+
+
+hola buenas noches estoy haciendo un nuevo texto para recordar el commit
+
+
+otro mensaje x para hacer commit
