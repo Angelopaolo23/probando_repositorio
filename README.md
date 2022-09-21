@@ -20,3 +20,8 @@ hola buenas noches estoy haciendo un nuevo texto para recordar el commit
 
 
 otro mensaje x para hacer commit
+
+
+
+
+QUE ESTA PASANDAAAA NO PUEDO SUBIR EL COMMIT CON GIT PUSH, ESTE SERA UN NUEVO COMMIT
